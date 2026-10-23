@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "StudySpace",
+    "slug": "studyspacefinder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0F1E"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.studyspace.finder"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#0A0F1E"
+      },
+      "package": "com.studyspace.finder"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "scheme": "studyspace",
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "fdfc0f3a-5917-4c77-b8c4-064e5d02da28"
+      }
+    },
+    "owner": "s00m4r"
+  }
+}

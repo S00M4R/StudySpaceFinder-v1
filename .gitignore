@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Expo / build output
+.expo/
+dist/
+web-build/
+*.apk
+*.aab
+*.ipa
+
+# Secrets -- never commit these
+.env
+.env.*
+!.env.example
+
+# Raw research data (contains participant-linked IDs)
+analysis/output/*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
