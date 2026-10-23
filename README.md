@@ -228,6 +228,4 @@ Charts for RQ1 and RQ2 are only generated once enough resolved sessions and matc
 - The floor map is a hand-defined layout rather than data-driven.
 - Results from any single pilot are small-sample and not generalisable on their own.
 
-## Author
 
-Built by [**S00M4R**](https://github.com/S00M4R) as a 3rd-year IT research project.
